@@ -1,0 +1,14 @@
+{
+    "customer": {
+        "customerId": "de87cc26-4e31-4b1c-8255-a2c212ccce78",
+        "firstName": "John",
+        "lastName": "Doe",
+        "userName": "John Doe",
+        "emailAddress": "johndoe@gmail.com",
+        "dateOfBirth": "03-10-1997",
+        "age": 25,
+        "dateCreated": "2022-10-17 05:50:06",
+        "dateEdited": "2022-10-17 06:35:20",
+        "isDeleted": false
+    }
+}
